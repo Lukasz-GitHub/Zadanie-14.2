@@ -46,6 +46,10 @@ body {
   list-style-type: none;
 }
 
+.movies div ul li:last-child hr:last-of-type {
+  display: none;
+}
+
 footer {
   text-align: center;
   padding: 10px;
