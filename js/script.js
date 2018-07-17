@@ -33,7 +33,7 @@ var moviesElement = movies.map(function (movie) {
         React.createElement('h3', {}, movie.info),
         React.createElement('hr', {}),
         React.createElement('p', {},                 
-            React.createElement('a', {href: movie.ticket, }, 'Kup Bilet')
+            React.createElement('a', {href: movie.ticket}, 'Kup Bilet')
         ),
         React.createElement('img', {src: movie.image, alt: movie.title}),
         React.createElement('p', {}, movie.desc)
