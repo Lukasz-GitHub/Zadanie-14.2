@@ -1,1 +1,1 @@
-# Zadanie-14.2
+https://lukasz-github.github.io/Zadanie-14.2/.
